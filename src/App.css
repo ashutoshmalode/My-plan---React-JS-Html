@@ -1,0 +1,17 @@
+html{
+    background-color: darkslategrey;
+}
+
+.box{
+    text-align: center;
+    background-color: darkslategrey;
+}
+
+input[type="text"]{
+    background: transparent;
+    color: white;
+}
+
+input[type="text"]:focus{
+    background: transparent;
+}
